@@ -1,0 +1,4 @@
+1. Texture Create 기능 추가
+ - RenderTarget 및 DepthStencilTex 쳐를 자체 CTexture 클래스로 전환
+
+2. CSetColorShader 기능 구현 중

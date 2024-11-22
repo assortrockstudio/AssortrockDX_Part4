@@ -1,0 +1,1 @@
+1. Particle 생성 과정에서 ComputeShader 스레드 간의 동기화 필요성

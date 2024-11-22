@@ -1,0 +1,3 @@
+1. SpawnShape 추가
+
+2. SpawhBlock Area 지정하기 구현 예정

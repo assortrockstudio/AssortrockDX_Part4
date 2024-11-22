@@ -1,0 +1,50 @@
+TaskMgr
+  - 프레임 동기화
+  - Object Spawn, Object Delete, 
+  - Change Level
+
+Collider
+  - Active, Deactive -> CollisionMgr
+
+StructuredBuffer
+  - 구조화버퍼 설계
+
+Light2D Component
+
+Shader Domain
+ - Canera Component -> GameObject Sorting by ShaderDomain
+
+RenderComponent
+  - Dynamic Material
+  - TimeMap Component
+  - ParticleSystem Component
+    - Compute Shader( GPGPU )
+
+PostProcess
+ - Distortion Effect, Camera Filter Effect
+
+Script 분리
+
+
+EditorObjectMgr
+
+
+ImGui, Editor 시각화
+
+
+Clone Interface
+  - Copy Construction
+
+Asset
+  - Sound -> FMOD Library
+  - Prefab, Save / Load
+  - Material, Save / Load
+
+Level Save/Load
+
+
+Content 폴더에 배치된 Asset을 자동 로딩, 동기화( 폴더 감시 )
+
+
+Font
+  - FontEngine Library
